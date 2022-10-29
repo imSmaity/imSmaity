@@ -1,6 +1,6 @@
 ![alt text](./images/top.svg)
 
-I love coding in JavaScript 📚. I'm student at [BIT](http://bitcollege.in/) as a Computer Science Engineering and interested in Web Development.
+I love coding in JavaScript 📚. I’m currently working on [Adsys](https://adsys.in/) as a Software Developer.
 
 <!--
 **imSmaity/imSmaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,10 @@ on dev.to
 -->
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using JavaScript.
-- 🌱 I’m currently learning JavaScript and React required for Web Apps.
+- 🌱 I’m currently fixing bugs that are required for the projects.
 - ✏️ I Write blogs on free days.
 - 🏏 I love to playing cricket.
-- 🎵 I love to hear country music.
+- 🎵 I love to hear bengali music.
 
 <br>
 
