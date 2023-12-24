@@ -1,6 +1,6 @@
 ![alt text](./images/top.svg)
 
-I love coding in JavaScript 📚. I’m currently working on [Adsys](https://adsys.in/) as a Software Developer.
+I love coding in JavaScript 📚. I’m working as a Software Developer.
 
 <!--
 **imSmaity/imSmaity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
