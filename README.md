@@ -26,13 +26,13 @@ on dev.to
 
 <br>
 
-<details>
+<!--<details>-->
   <summary>Some other facts about me</summary>
   <br>
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=imSmaity&show_icons=true&theme=nord)
   <br><br>
-</details>
+<!--</details>-->
 <br>
 
 ### Let's Connect ☕
